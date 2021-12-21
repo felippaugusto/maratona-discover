@@ -1,0 +1,5 @@
+.button.new {
+
+}
+
+ele vai procurar se dentro de algum elemento tem essa duas classes, se der espaço ele procura se o elemento tem button ou new

@@ -1,0 +1,1 @@
+line-weight serve para espaçar mais uma linha de outra linha, caso tenha mais de uma linha, ele é usado para modificar esse espaçamento entre as linhas

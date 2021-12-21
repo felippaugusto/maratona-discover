@@ -1,0 +1,6 @@
+quando vc colocar mais de um nome a sua classe depois para pegalá basta fazer isso
+
+.card.green {
+}
+
+vc está pegando um elemento que tenha a classe card e a classe green tmb

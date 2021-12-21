@@ -1,0 +1,12 @@
+header {
+    background: #2D4A22;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+como eu coloquei 2rem de padding em cima e em baixo e dos lados 0rem
+
+o text-align pega de referência o padding dos lados, assim, funcionando
+
+o margin auto ele balancea os lados ou cima e baixo, ele sempre vai deixar igual as duas partes referenciando sua largura ou altura
+

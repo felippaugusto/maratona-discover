@@ -1,0 +1,9 @@
+:root {
+}
+
+ele serve para não precisar toda hora ficar colocando o mesmo código no css, dentro de root, vc pode criar variáveis e dar nomes a elas por exemplo --dark-blue: #g5gh55g e assim toda hora que vc precisar dessa cor, vc pode apenas escrever o nome da variável
+
+para usar essa variável criada basta usar assim por exemplo 
+
+color: var(--dark-blue)
+

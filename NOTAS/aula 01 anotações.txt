@@ -1,0 +1,7 @@
+dentro do head é onde vai ficar os meta dados do meu site, onde vai ficar
+as configurações especiais do meu html
+
+o body é onde vai aparecer tudo na tela do usuário
+
+o meta name dentro do head no html vai permitir ou não se nosso documento
+pode ser aberto em qualquer tela ou não viewport é tudo que está aparecendo na tela branca, ele vai pegar o width=device-width, initial-scale=1.0" do dispositivo e ajustar ela conforme a tela do dispositivo
